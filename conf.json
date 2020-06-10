@@ -7,6 +7,6 @@
   "min_confidence": 0.4,
   "maxDisappeared": 40,
   "maxDistance": 30,
-  "skip_frames": 15
+  "skip_frames": 20
 
 }
