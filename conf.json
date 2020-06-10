@@ -1,0 +1,12 @@
+{
+  "model": "people_counter/experiments/exported_model/frozen_inference_graph.pb",
+  "labels": "people_counter/records/classes.pbtxt",
+  "input": "../videos/train_station/5_24_05_22_11_18_EXCELENTE.mp4",
+  "output": "output/5_24_05_22_11_18_EXCELENTE.avi",
+  "num_classes": 1,
+  "min_confidence": 0.4,
+  "maxDisappeared": 40,
+  "maxDistance": 30,
+  "skip_frames": 15
+
+}
