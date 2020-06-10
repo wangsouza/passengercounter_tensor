@@ -3,7 +3,7 @@ python pcounter_tensor.py --conf conf.json
 
 **IN:**
 
-![Alt text](getin.png?raw=true "Title")
+![Alt text](readme/getin.png?raw=true "Title")
 
 **OUT:**
 
